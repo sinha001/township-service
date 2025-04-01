@@ -63,7 +63,7 @@ export function Testimonials() {
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold mb-4">What Our Customers Say</h2>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-8">
-          Don't just take our word for it. Here's what our satisfied customers
+          Don&apos;t just take our word for it. Here&apos;s what our satisfied customers
           have to say about our services.
         </p>
         <div className="relative w-full flex justify-center overflow-hidden">
@@ -93,7 +93,7 @@ export function Testimonials() {
                         <div className="flex mb-4 justify-center">
                           {renderStars(testimonial.rating)}
                         </div>
-                        <p className="mb-4">"{testimonial.text}"</p>
+                        <p className="mb-4">&quot;{testimonial.text}&quot;</p>
                       </CardContent>
                       <CardFooter className="flex flex-col items-center border-t pt-4">
                         <p className="font-semibold">{testimonial.name}</p>

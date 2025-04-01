@@ -61,7 +61,7 @@ export function Faq() {
             <a href="#contact" className="text-orange-500 font-medium">
               Contact us
             </a>{" "}
-            and we'll be happy to help.
+            and we&apos;ll be happy to help.
           </p>
         </div>
       </div>

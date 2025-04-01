@@ -51,7 +51,7 @@ export function Areas() {
 
         <div className="mt-8 text-center">
           <p className="text-muted-foreground">
-            Don't see your area? Don't worry! We cover all of Bangalore and surrounding regions. Call us at{" "}
+            Don&apos;t see your area? Don&apos;t worry! We cover all of Bangalore and surrounding regions. Call us at{" "}
             <a href="tel:+918197315590" className="text-orange-500 font-medium">
             8197 315 590
             </a>{" "}

@@ -98,8 +98,8 @@ export function ScrollSpy() {
               </h4>
               <p>
                 Vehicle breakdowns can happen anytime, anywhere. Our 24/7
-                emergency towing service ensures you're never stranded on the
-                road. Whether it's the middle of the night or during peak
+                emergency towing service ensures you&apos;re never stranded on the
+                road. Whether it&apos;s the middle of the night or during peak
                 traffic hours, our team is always ready to assist you with
                 professional towing services throughout Bangalore.
               </p>
